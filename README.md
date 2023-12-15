@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-amaral-a8661b264/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amaraldsn/?next=%2F)
 [![Instagram](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amaraldzn.github.io/)
-[![Instagram](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)]([https://linktr.ee/produtosamazonamaral](https://amaraldzn.github.io/ecommerce/))
+[![Instagram](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)]([https://linktr.ee/produtosamazonamaral](https://amaraldzn.github.io/ecommerce/)
 
 ![Amaral GitHub stats](https://github-readme-stats.vercel.app/api?username=amaraldzn&show_icons=true&theme=transparent&bg_color=000&text_color=fff&icon_color=9400d3&title_color=9400D3&hide=prs)
 
