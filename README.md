@@ -16,16 +16,21 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Tá ganhando intimidade comigo. Me conheça mais então...**
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```
-  const profile = {
-  name: "NATANAEL DO AMARAL",
-  acknowledgements: "FRONT END, REDES E SEGURANÇA (SCRIPT KIDDIE)",
-  primarySkillset: "ALGUMAS COISAS QUE EU DOU UMA BRINCADA DE VEZ EM QUANDO, rs",
-        languages: ["HTML", "CSS", "PYTHON", "JAVASCRIPT"]
-};
-```
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mim***
+
+  ✔ Pronomes: ***He/His*** | ***Designer/Dev***🖥️ <br>
+  ✔ Apelido: ***Natan, ...*** | **Alinhador de Div**🤣 <br>
+✔ Eu me chamo **Natanael do Amaral** e sou um **amante** por tecnologia<br>
+✔ Faço graduação no **IFPB**, no curso de **Sistemas para Internet**<br>
+✔ Sei um básico de **HTML e CSS**, mas estou focando em **JAVASCRIPT** agora<br>
+✔ Em 2023, expandi horizontes e comecei a migrar pro **Designer Web**<br>
+✔ Estou estudando também UI/UX, com propósitos óbvios de melhorar a interação do usuário <br>
+✔ Desde criança, sempre adorei a ideia de ser um detetive, e esse desejo aumenta a cada ano<br>
+✔ Xi... Eu gosto de todas as áreas de segurança, mas tenho um apego maior pelos b... <br>
+✔ Ficou curioso?! Então entra lá no meu site e manda mensagem lá no instagram [CLICA AQUI](https://www.instagram.com/amaraldsn/)<br><br><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Linguagens e Ferramentas</b>
 <br>
@@ -113,33 +118,35 @@
 
 ## Status
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=amaraldzn&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaraldzn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=amaraldzn&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
-  </tr>
-</table>
-<br />
+ <details open>
+  <summary><h3>Linguagens</h3></summary>
+            <p align="center">
+        <a href="https://github.com/amaraldzn/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaraldzn&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/amaraldzn/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amaraldzn&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top linguagens" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amaraldzn&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top commits" />
+          </a>
+        </p>
+</details>
+<details open>
+  <summary><h3>Estatísticas</h3></summary>
+  <p align="center">
+    <a href="https://github.com/amaraldzn/">
+      <img width="100%" style="max-width: 500px;" src="https://github-readme-stats.vercel.app/api?username=amaraldzn&show_icons=true&theme=gruvbox&hide_border=true" />
+    </a>
+    <a href="https://github.com/amaraldzn/">
+      <img width="100%" style="max-width: 500px;" src="https://github-readme-streak-stats.herokuapp.com/?user=amaraldzn&theme=gruvbox&hide_border=true" />
+    </a>
+  </p>
+</details>
+
+
 
 ## Contate-me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
