@@ -115,35 +115,39 @@
     src="https://imagepng.org/wp-content/uploads/2018/06/estados-unidos-icone-1.png"
     alt="Logo Tailwind"/></code>
 
-
-## Status
-
- <details open>
+<details> 
+  <summary> <h2>💻 Meu status</h2></summary>
+  <div>
+  <samp>
+    <h2 align="center"> Github status </h2>
+      <br/>
+    <details open>
   <summary><h3>Linguagens</h3></summary>
             <p align="center">
-        <a href="https://github.com/amaraldzn/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaraldzn&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: overall Top Langs " /></a>
+        <a href="https://github.com/amaraldzn">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaraldzn&langs_count=6&theme=aura&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Linguagens " /></a>
       </p>
         <p align="center">
-          <a href="https://github.com/amaraldzn/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amaraldzn&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top linguagens" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amaraldzn&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top commits" />
+          <a href="https://github.com/1999AZZAR/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amaraldzn&theme=gotham&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amaraldzn&theme=github_dark&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top commit" />
           </a>
         </p>
 </details>
-<details open>
+    <details open>
   <summary><h3>Estatísticas</h3></summary>
-  <p align="center">
-    <a href="https://github.com/amaraldzn/">
-      <img width="100%" style="max-width: 500px;" src="https://github-readme-stats.vercel.app/api?username=amaraldzn&show_icons=true&theme=gruvbox&hide_border=true" />
-    </a>
-    <a href="https://github.com/amaraldzn/">
-      <img width="100%" style="max-width: 500px;" src="https://github-readme-streak-stats.herokuapp.com/?user=amaraldzn&theme=gruvbox&hide_border=true" />
-    </a>
-  </p>
+        <p align="center">
+          <a href="https://github.com/amaraldzn/">
+          <img width="70%" src="https://github-readme-stats.vercel.app/api?username=amaraldzn&theme=midnight-purple&hide_border=true" />
+          <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=amaraldzn&theme=blue-green&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
 </details>
 
 
